@@ -83,7 +83,7 @@ const SignInWithPhone = ({
 				.then((result) => {
 					const user = {
 						phone: auth?.currentUser?.phoneNumber,
-						name: auth?.name,
+						name: auth?.currentUser?.displayName,
 						email: auth?.currentUser?.email,
 						isUserLoggedIn: true,
 					};
