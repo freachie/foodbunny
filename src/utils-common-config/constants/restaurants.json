@@ -1,0 +1,1576 @@
+{
+  "restaurants": [
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "482697",
+        "name": "Roastery Coffee House",
+        "uuid": "860fd007-0bbc-40ef-821e-50eac52175ad",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "500+ ratings",
+        "cloudinaryImageId": "rsjfvz24mhek95ex58oa",
+        "cuisines": [
+          "American",
+          "European",
+          "Italian"
+        ],
+        "tags": [],
+        "costForTwo": 60000,
+        "costForTwoString": "₹600 FOR TWO",
+        "deliveryTime": 44,
+        "minDeliveryTime": 44,
+        "maxDeliveryTime": 44,
+        "slaString": "44 MINS",
+        "lastMileTravel": 7.900000095367432,
+        "slugs": {
+          "restaurant": "roastery-coffee-house-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Plot no, BL-004. Sector-144, Near oxygen business park, Noida Goutam buddha nagar, uttar pradesh. 701301",
+        "locality": "",
+        "parentId": 170319,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 6300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 6300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "6300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7371679~p=1~eid=00000189-900f-31b7-04a6-5a540057011f~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "7.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹80",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "482697",
+          "deliveryTime": 44,
+          "minDeliveryTime": 44,
+          "maxDeliveryTime": 44,
+          "lastMileTravel": 7.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.5",
+        "totalRatings": 500,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "331533",
+        "name": "Radha Krishna Chole Bhature",
+        "uuid": "1d1de518-2c47-433e-82b0-a03aa11aba74",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "inqu3ipy9olgna4jjvlb",
+        "cuisines": [
+          "North Indian",
+          "Snacks"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 20,
+        "minDeliveryTime": 20,
+        "maxDeliveryTime": 20,
+        "slaString": "20 MINS",
+        "lastMileTravel": 4.5,
+        "slugs": {
+          "restaurant": "radhe-krishna-chole-bhature-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Paras Tierea, Sector 137, Noida, Uttar Pradesh, India",
+        "locality": "Hansraj Marg",
+        "parentId": 16199,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.5 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "331533",
+          "deliveryTime": 20,
+          "minDeliveryTime": 20,
+          "maxDeliveryTime": 20,
+          "lastMileTravel": 4.5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "612763",
+        "name": "Shama Muradabadi Chicken Biryani",
+        "uuid": "2197add6-1688-4767-8d01-5a2f46db3503",
+        "city": "10459",
+        "area": "Sector 110",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "ibjob3kecdogzhb9eb4z",
+        "cuisines": [
+          "Kebabs"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 21,
+        "minDeliveryTime": 21,
+        "maxDeliveryTime": 21,
+        "slaString": "21 MINS",
+        "lastMileTravel": 1,
+        "slugs": {
+          "restaurant": "shama-muradabadi-chicken-biryani-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Shop No. 23, VDS Market, Labour Chowk, Sector 110, Noida-201305, Sector 110, Noida City, Zone-5, Gautam Buddha Nagar, Uttar Pradesh-201305",
+        "locality": "VDS Market",
+        "parentId": 181460,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "1 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "612763",
+          "deliveryTime": 21,
+          "minDeliveryTime": 21,
+          "maxDeliveryTime": 21,
+          "lastMileTravel": 1,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "715420",
+        "name": "Hawelia Sweets & Restaurant",
+        "uuid": "ed16339b-9f7b-488e-8f02-4192a9f329f8",
+        "city": "10459",
+        "area": "Noida Expressway",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "f16257d19b5bcc1e69ef647bbaf8d432",
+        "cuisines": [
+          "Chinese",
+          "Tandoor",
+          "Beverages",
+          "Ice Cream"
+        ],
+        "tags": [],
+        "costForTwo": 49900,
+        "costForTwoString": "₹499 FOR TWO",
+        "deliveryTime": 34,
+        "minDeliveryTime": 34,
+        "maxDeliveryTime": 34,
+        "slaString": "34 MINS",
+        "lastMileTravel": 4.599999904632568,
+        "slugs": {
+          "restaurant": "hawelia-sweets-&-restaurant-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "SH NO 50, GROUND FLOOR, SECTOR 141, ,  GautamBudh Nagar Tahsil-I, Gautam Buddha  Nagar , Uttar Pradesh-201001",
+        "locality": "Gautam Buddha Nagar",
+        "parentId": 426892,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7285476~p=4~eid=00000189-900f-31b7-04a6-5a5500570478~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.5 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "715420",
+          "deliveryTime": 34,
+          "minDeliveryTime": 34,
+          "maxDeliveryTime": 34,
+          "lastMileTravel": 4.599999904632568,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "579632",
+        "name": "Dunkin' - Donuts & Coffee",
+        "uuid": "0c164352-0a8d-42bc-8569-1e26f79c10a6",
+        "city": "10459",
+        "area": "Hajipur",
+        "totalRatingsString": "100+ ratings",
+        "cloudinaryImageId": "hvpyj31uzktp5yrv4ary",
+        "cuisines": [
+          "Desserts",
+          "Cafe",
+          "Bakery",
+          "Beverages",
+          "Fast Food"
+        ],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 21,
+        "minDeliveryTime": 21,
+        "maxDeliveryTime": 21,
+        "slaString": "21 MINS",
+        "lastMileTravel": 4.400000095367432,
+        "slugs": {
+          "restaurant": "dunkin-donuts-skymark-golf-course",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Dunkin Donut, Ground floor, Shop no. J-1,Tower E, Skymark one, H 10/A, Sector 98 Noida, NOIDA CITY ZONE-3, Gautam Buddha Nagar , Uttar Pradesh 201301",
+        "locality": "Sector 98",
+        "parentId": 2276,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "LIGHT",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.4 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "579632",
+          "deliveryTime": 21,
+          "minDeliveryTime": 21,
+          "maxDeliveryTime": 21,
+          "lastMileTravel": 4.400000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "LIGHT",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 100,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "655374",
+        "name": "Chaayos Chai+Snacks=Relax",
+        "uuid": "332926cd-deb5-4174-8c75-c3d333bba74a",
+        "city": "10459",
+        "area": "Sector-129",
+        "totalRatingsString": "100+ ratings",
+        "cloudinaryImageId": "2beebd3688e63e027ee8a11c1c8a72c8",
+        "cuisines": [
+          "Bakery",
+          "Beverages",
+          "Chaat",
+          "Desserts",
+          "Home Food",
+          "Italian",
+          "Maharashtrian",
+          "Snacks",
+          "Street Food",
+          "Sweets"
+        ],
+        "tags": [],
+        "costForTwo": 25000,
+        "costForTwoString": "₹250 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 4.900000095367432,
+        "slugs": {
+          "restaurant": "chaayos-chaisnacksrelax-gulshan-one-29-mall-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Unit No. 19, 20, Ground Floor, Gulshan One 29 Mall, Plot No. C 3, E-1, Sector-129, Noida, Greater Noida Express Way, NOIDA CITY ZONE-5, Gautam Buddha Nagar , Uttar Pradesh-201301",
+        "locality": "Gulshan One 29 Mall",
+        "parentId": 281782,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "655374",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 4.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.3",
+        "totalRatings": 100,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "673027",
+        "name": "Desi Mandi",
+        "uuid": "a23260bf-bb79-44cf-969e-1cae71ee3e8a",
+        "city": "10459",
+        "area": "Noida Expressway",
+        "totalRatingsString": "20+ ratings",
+        "cloudinaryImageId": "7423c03fa94719826e270ef5e291e880",
+        "cuisines": [
+          "North Indian",
+          "Chinese"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 46,
+        "minDeliveryTime": 46,
+        "maxDeliveryTime": 46,
+        "slaString": "46 MINS",
+        "lastMileTravel": 2.0999999046325684,
+        "slugs": {
+          "restaurant": "desi-mandi-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "H No. 194D Sector 93 MIG, SECTOR-93 NOIDA, NOIDA CITY ZONE-5, Gautam Buddha Nagar , Uttar Pradesh - 201304",
+        "locality": "Sector 93",
+        "parentId": 403010,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7574467~p=7~eid=00000189-900f-31b7-04a6-5a560057071b~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75",
+          "discountTag": "",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "673027",
+          "deliveryTime": 46,
+          "minDeliveryTime": 46,
+          "maxDeliveryTime": 46,
+          "lastMileTravel": 2.0999999046325684,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.4",
+        "totalRatings": 20,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "715952",
+        "name": "Mr Bhatura",
+        "uuid": "0a980735-4f08-4b5d-bd66-8a3b68743852",
+        "city": "10459",
+        "area": "Noida Expressway",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "6becb22f21bf9f9efed7a405f4fc9cc5",
+        "cuisines": [
+          "North Indian"
+        ],
+        "tags": [],
+        "costForTwo": 20000,
+        "costForTwoString": "₹200 FOR TWO",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "slaString": "26 MINS",
+        "lastMileTravel": 5,
+        "slugs": {
+          "restaurant": "mr-bhatura-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "SHARMA MARKET, SHOP NO. 12&13, VILLAGE SHAHADRA, NEAR BARAT GHAR , SECTOR 141 NOIDA, G.B. NAGAR , SHAHDRA, NOIDA CITY ZONE-5, Gautam Buddha Nagar , Uttar Pradesh - 201305",
+        "locality": "G B Nagar",
+        "parentId": 279588,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 5100,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 5100,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "5100",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "5 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "715952",
+          "deliveryTime": 26,
+          "minDeliveryTime": 26,
+          "maxDeliveryTime": 26,
+          "lastMileTravel": 5,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "411809",
+        "name": "Mithaas",
+        "uuid": "3b7b5b98-fa08-4415-b1d3-230ecd1cc371",
+        "city": "10459",
+        "area": "Hajipur",
+        "totalRatingsString": "5000+ ratings",
+        "cloudinaryImageId": "p6sbdwwvsgyvadxy6ko5",
+        "cuisines": [
+          "North Indian",
+          "Sweets",
+          "Bakery",
+          "Snacks"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 32,
+        "minDeliveryTime": 32,
+        "maxDeliveryTime": 32,
+        "slaString": "32 MINS",
+        "lastMileTravel": 4.199999809265137,
+        "slugs": {
+          "restaurant": "mithaas-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Building No HA 101 & 102, Sec 104, Hazipur Market, Noida - 201304 (U.P)",
+        "locality": "Hazipur Market",
+        "parentId": 4150,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7537074~p=10~eid=00000189-900f-31b7-04a6-5a5700570a34~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.1 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹75 OFF",
+          "subHeader": "ABOVE ₹199",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "411809",
+          "deliveryTime": 32,
+          "minDeliveryTime": 32,
+          "maxDeliveryTime": 32,
+          "lastMileTravel": 4.199999809265137,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.1",
+        "totalRatings": 5000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "738893",
+        "name": "Burger Corner",
+        "uuid": "0ea06f02-d6a6-445f-82ec-1021b8330d8c",
+        "city": "10459",
+        "area": "Noida Expressway",
+        "totalRatingsString": "Too Few Ratings",
+        "cloudinaryImageId": "2fef59a8d61cc3861c8f0fc1cbf12a8c",
+        "cuisines": [
+          "Burgers"
+        ],
+        "tags": [],
+        "costForTwo": 35000,
+        "costForTwoString": "₹350 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 2.9000000953674316,
+        "slugs": {
+          "restaurant": "burger-corner-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Ground Floor,Unit No-2, B 395, SECTOR-92  NOIDA, NOIDA CITY ZONE-5, Gautam  Buddha Nagar , Uttar Pradesh - 201304",
+        "locality": "Sector-92",
+        "parentId": 51264,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 3300,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 3300,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "3300",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "2.9 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "738893",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 2.9000000953674316,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "--",
+        "totalRatings": 0,
+        "new": true
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "421532",
+        "name": "Sundae Everyday Ice Creams",
+        "uuid": "68d2aa74-49d0-4c69-a9b4-3d19b3cec805",
+        "city": "10459",
+        "area": "Shahdara",
+        "totalRatingsString": "100+ ratings",
+        "cloudinaryImageId": "pkb3ii2tgtnr2rhumvtk",
+        "cuisines": [
+          "Beverages",
+          "Ice Cream",
+          "Desserts"
+        ],
+        "tags": [],
+        "costForTwo": 15000,
+        "costForTwoString": "₹150 FOR TWO",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "slaString": "27 MINS",
+        "lastMileTravel": 4.900000095367432,
+        "slugs": {
+          "restaurant": "sundae-everyday-ice-creams-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "Shop Number SH 002, 2nd Floor, Sec-141, Shahdra, Surajpur, Noida, GautamBudh Nagar Tahsil-I, Gautam Buddha Nagar, Uttar Pradesh, 201305",
+        "locality": "Shahdra Road",
+        "parentId": 20021,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "421532",
+          "deliveryTime": 27,
+          "minDeliveryTime": 27,
+          "maxDeliveryTime": 27,
+          "lastMileTravel": 4.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.2",
+        "totalRatings": 100,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "196171",
+        "name": "Sagar Ratna",
+        "uuid": "eaa16776-340f-4a2c-9a9b-450167955346",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "1000+ ratings",
+        "cloudinaryImageId": "893b0ca9c0125060646b1eda4fd9563b",
+        "cuisines": [
+          "South Indian"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 36,
+        "minDeliveryTime": 36,
+        "maxDeliveryTime": 36,
+        "slaString": "36 MINS",
+        "lastMileTravel": 6,
+        "slugs": {
+          "restaurant": "sagar-ratna-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "A8 Advant It Park Sector 142 Noida Uttar Pradesh",
+        "locality": "Sector 135",
+        "parentId": 793,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 5700,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 5700,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "5700",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7467926~p=13~eid=00000189-900f-31b7-04a6-5a5800570d1f~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "196171",
+          "deliveryTime": 36,
+          "minDeliveryTime": 36,
+          "maxDeliveryTime": 36,
+          "lastMileTravel": 6,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "3.8",
+        "totalRatings": 1000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "254106",
+        "name": "McDonald's",
+        "uuid": "9c88455f-f315-43b1-93be-45bbaf9fd95a",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "10000+ ratings",
+        "cloudinaryImageId": "08eee882fda81b68e5c36e3a5d89d8c0",
+        "cuisines": [
+          "American"
+        ],
+        "tags": [],
+        "costForTwo": 40000,
+        "costForTwoString": "₹400 FOR TWO",
+        "deliveryTime": 28,
+        "minDeliveryTime": 28,
+        "maxDeliveryTime": 28,
+        "slaString": "28 MINS",
+        "lastMileTravel": 6.099999904632568,
+        "slugs": {
+          "restaurant": "mcdonalds-up-noida-advant-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "UP Noida Advant,  Advant IT Park, Plot No.7. Sector-142, Noida- 201301",
+        "locality": "Advant IT Park",
+        "parentId": 630,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 5700,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 5700,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "5700",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6 kms",
+        "hasSurge": false,
+        "sla": {
+          "restaurantId": "254106",
+          "deliveryTime": 28,
+          "minDeliveryTime": 28,
+          "maxDeliveryTime": 28,
+          "lastMileTravel": 6.099999904632568,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.2",
+        "totalRatings": 10000,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "455522",
+        "name": "Wagh Bakri Tea Lounge",
+        "uuid": "85ce08df-e34d-461f-a564-16cd4c6cccb2",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "50+ ratings",
+        "cloudinaryImageId": "93a8c4cdefd2cbb20a6e3de22be4a4f9",
+        "cuisines": [
+          "Beverages",
+          "Snacks",
+          "Bakery"
+        ],
+        "tags": [],
+        "costForTwo": 30000,
+        "costForTwoString": "₹300 FOR TWO",
+        "deliveryTime": 28,
+        "minDeliveryTime": 28,
+        "maxDeliveryTime": 28,
+        "slaString": "28 MINS",
+        "lastMileTravel": 6,
+        "slugs": {
+          "restaurant": "wagh-bakri-tea-lounge-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "WAGH BAKRI TEA LOUNGE, Unit No. 11,  Ground floor, Tower B, Advant Navis Business  Park, Noida Expressway, Sector 142, NOIDA,  NOIDA CITY ZONE-5, Gautam Buddha Nagar ,  Uttar Pradesh-201305",
+        "locality": "",
+        "parentId": 225010,
+        "unserviceable": false,
+        "veg": true,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 5700,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 5700,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "5700",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 1,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "6 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "455522",
+          "deliveryTime": 28,
+          "minDeliveryTime": 28,
+          "maxDeliveryTime": 28,
+          "lastMileTravel": 6,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "IT_IS_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": false,
+        "avgRating": "4.0",
+        "totalRatings": 50,
+        "new": false
+      },
+      "subtype": "basic"
+    },
+    {
+      "type": "restaurant",
+      "data": {
+        "type": "F",
+        "id": "589769",
+        "name": "Mad Over Cakes",
+        "uuid": "8f7e0847-c215-40d0-866d-84fd83f20e1a",
+        "city": "10459",
+        "area": "Sector 135",
+        "totalRatingsString": "100+ ratings",
+        "cloudinaryImageId": "e0hkhnewnzqklqymr1ee",
+        "cuisines": [
+          "Bakery"
+        ],
+        "tags": [],
+        "costForTwo": 10000,
+        "costForTwoString": "₹100 FOR TWO",
+        "deliveryTime": 44,
+        "minDeliveryTime": 44,
+        "maxDeliveryTime": 44,
+        "slaString": "44 MINS",
+        "lastMileTravel": 4.900000095367432,
+        "slugs": {
+          "restaurant": "mad-over-cakes-noida-expressway-noida-expressway",
+          "city": "noida-1"
+        },
+        "cityState": "10459",
+        "address": "SH002, Sector 141, Shahdara, Sector 141, Noida, Uttar Pradesh 201305, India",
+        "locality": "Shahdara Road",
+        "parentId": 128335,
+        "unserviceable": false,
+        "veg": false,
+        "select": false,
+        "favorite": false,
+        "tradeCampaignHeaders": [],
+        "ribbon": [
+          {
+            "type": "PROMOTED"
+          }
+        ],
+        "chain": [],
+        "feeDetails": {
+          "fees": [
+            {
+              "name": "distance",
+              "fee": 4500,
+              "message": ""
+            },
+            {
+              "name": "time",
+              "fee": 0,
+              "message": ""
+            },
+            {
+              "name": "special",
+              "fee": 0,
+              "message": ""
+            }
+          ],
+          "totalFees": 4500,
+          "message": "",
+          "title": "Delivery Charge",
+          "amount": "4500",
+          "icon": ""
+        },
+        "availability": {
+          "opened": true,
+          "nextOpenMessage": "",
+          "nextCloseMessage": ""
+        },
+        "longDistanceEnabled": 0,
+        "rainMode": "NONE",
+        "thirdPartyAddress": false,
+        "thirdPartyVendor": "",
+        "adTrackingID": "cid=7583048~p=16~eid=00000189-900f-31b7-04a6-5a590057107d~srvts=1690339062199",
+        "badges": {
+          "imageBased": [],
+          "textBased": [],
+          "textExtendedBadges": []
+        },
+        "lastMileTravelString": "4.9 kms",
+        "hasSurge": false,
+        "aggregatedDiscountInfoV3": {
+          "header": "₹150 OFF",
+          "subHeader": "ABOVE ₹349",
+          "discountTag": "FLAT DEAL",
+          "headerTypeV2": 0
+        },
+        "sla": {
+          "restaurantId": "589769",
+          "deliveryTime": 44,
+          "minDeliveryTime": 44,
+          "maxDeliveryTime": 44,
+          "lastMileTravel": 4.900000095367432,
+          "lastMileDistance": 0,
+          "serviceability": "SERVICEABLE",
+          "rainMode": "NONE",
+          "longDistance": "NOT_LONG_DISTANCE",
+          "preferentialService": false,
+          "iconType": "EMPTY"
+        },
+        "promoted": true,
+        "avgRating": "4.2",
+        "totalRatings": 100,
+        "new": false
+      },
+      "subtype": "basic"
+    }
+  ]
+}

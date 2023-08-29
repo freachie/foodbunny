@@ -1,0 +1,153 @@
+{
+  "carousels": [
+    {
+      "cardType": "carousel",
+      "layoutAlignmentType": "VERTICAL",
+      "data": {
+        "type": "carousel",
+        "subtype": "topCarousel",
+        "data": {
+          "cards": [
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 635529,
+                "creativeId": "rng/md/carousel/production/pneknawbadtvceqzwiep",
+                "type": "restaurantCollectionV2",
+                "link": "49301",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "thirdPartyVendor": "",
+                "thirdPartyAddress": false
+              }
+            },
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 607193,
+                "creativeId": "rng/md/carousel/production/s5ug2key6e2sptaxku5v",
+                "type": "restaurantCollectionV2",
+                "link": "56410",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "thirdPartyVendor": "",
+                "thirdPartyAddress": false
+              }
+            },
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 607188,
+                "creativeId": "rng/md/carousel/production/oxe97jexxbnxqtbhg2zo",
+                "type": "restaurantCollectionV2",
+                "link": "11740",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "thirdPartyVendor": "",
+                "thirdPartyAddress": false
+              }
+            },
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 607195,
+                "creativeId": "rng/md/carousel/production/ifi2lbzxeu1hvsqrsip3",
+                "type": "restaurantCollectionV2",
+                "link": "56421",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "thirdPartyVendor": "",
+                "thirdPartyAddress": false
+              }
+            }
+          ]
+        }
+      },
+      "parentWidget": false
+    },
+    {
+      "cardType": "carousel",
+      "layoutAlignmentType": "VERTICAL",
+      "data": {
+        "type": "carousel",
+        "subtype": "openFilter",
+        "data": {
+          "cards": [
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 181684,
+                "creativeId": "bkhjfipzydkoqncrxpyi",
+                "type": "restaurantCollectionV2",
+                "link": "11718",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "title": "Offers Near You",
+                "subtitle": "0 OPTIONS",
+                "restaurants": [],
+                "totalCount": 0,
+                "dwebOpenFilterTitle": "Offers Near You",
+                "dwebOpenFilterBgColor": "#FF0000",
+                "dwebOpenFilterSelectIcon": "eyperwsfhaoa5vktjtu4",
+                "dwebOpenFilterDeselectIcon": "urw8usdf4mk9aywd59gq"
+              }
+            },
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 273242,
+                "creativeId": "rng/md/carousel/production/vquntqrzvkb08pe59cec",
+                "type": "restaurantCollectionV2",
+                "link": "46147",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "title": "Top Picks",
+                "subtitle": "0 OPTIONS",
+                "restaurants": [],
+                "totalCount": 0,
+                "dwebOpenFilterTitle": "Top Picks",
+                "dwebOpenFilterBgColor": "#FF0000",
+                "dwebOpenFilterSelectIcon": "rng/md/carousel/production/vt13uzhjrg5r49kh9oru",
+                "dwebOpenFilterDeselectIcon": "rng/md/carousel/production/ser2sttildk9yt7t2s91"
+              }
+            },
+            {
+              "type": "carouselElement",
+              "subtype": "image",
+              "data": {
+                "bannerId": 181680,
+                "creativeId": "a3jqjjod5taken7dh1bs",
+                "type": "restaurantCollectionV2",
+                "link": "11721",
+                "cityId": 0,
+                "restaurantUuid": "",
+                "restaurantParentId": "0",
+                "title": "Veg Only",
+                "subtitle": "0 OPTIONS",
+                "restaurants": [],
+                "totalCount": 0,
+                "dwebOpenFilterTitle": "Vegetarian Options",
+                "dwebOpenFilterBgColor": "#FF0000",
+                "dwebOpenFilterSelectIcon": "qtjc8dzfexg72lug37a0",
+                "dwebOpenFilterDeselectIcon": "bm8bziikwyvwqsml1clm"
+              }
+            }
+          ]
+        }
+      },
+      "parentWidget": false
+    }
+  ]
+}

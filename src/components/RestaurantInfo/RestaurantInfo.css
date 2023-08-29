@@ -1,0 +1,64 @@
+.rest-info-wrapper {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.rest-info-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.rest-info-name {
+  font-size: 20px;
+  margin: 5px 10px;
+  font-weight: bold;
+
+}
+
+.rest-info-location {
+  margin: 5px;
+  padding: 5px;
+  font-size: 14px;
+  color: grey;
+}
+
+.rest-info-cost {
+  font-weight: bold;
+  margin: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rest-info-ratings-info {
+  text-align: center;
+  width: 60px;
+  height: 60px;
+  box-shadow: 0px 1px 1px 1px rgb(0, 0, 0, 0.1);
+  border: 1px solid #dedede;
+  border-radius: 6px;
+  padding: 2px;
+  margin: 0px 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.rest-info-avgRating {
+  margin: 2px;
+  color: rgb(5, 132, 5);
+}
+
+.rest-info-rating-count {
+  font-size: 10px;
+  color: #949494;
+}
+
+.rest-info-seperator {
+  border: 1px dashed #d2d2d2;
+}
+
+.rest-info-rating {
+  display: flex;
+  justify-content: center;
+}
+
+.rest-info-rating-star {
+  height: 18px;
+  margin: 2px;
+}

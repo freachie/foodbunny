@@ -1,0 +1,9 @@
+  .suggestions {
+    float: none;
+    color: black;
+    padding: 12px 8px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    cursor: pointer;
+  }
