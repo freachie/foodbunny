@@ -1,8 +1,7 @@
 # FoodBunny
 Food Ordering App project which uses swiggy's api to fetch live restaurants data. This web app is only for project learning purpose.
 
-
-## Redux store implementation steps - 
+<details><summary><font size=5>Redux store implementation - ( 6 easy steps ) : </font></summary>
 
 ### 1. configure store using `configureStore`
       const AppStore = configureStore();
@@ -32,7 +31,7 @@ Food Ordering App project which uses swiggy's api to fetch live restaurants data
         },
       });
 
-      export const { addToCart, ... } = cartSlice.actions; // this action keyword is reserved
+      export const { addToCart, ... } = cartSlice.actions; // this actions keyword is reserved
       export default cartSlice.reducer; // this reducer keyword is reserved
   ```
 ### 4. provide slice `reducer` to store reducer
@@ -54,3 +53,29 @@ Food Ordering App project which uses swiggy's api to fetch live restaurants data
   ```
     const items = useSelector((store) => store.sliceName.items);
   ```
+</details>
+
+<details><summary><font size=5>Github pages deployment steps - ( 6 easy steps ) : </font></summary>
+
+
+### 1. Add `predeploy` & `deploy` script in your root package.json
+```
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+  }
+```
+### 2. Run command - `npm run deploy`
+### 3. Goto your github repository and click on `settings`
+### 4. Click on `pages`
+### 5. Select source - `Deploy from a branch`
+### 6. Select branch as `gh-pages` - `/root` and save
+## That's it. Your application is live now.
+## To check the latest deployment, Goto github repository -> actions -> deployments -> active deployments
+### If you are getting error like - `uncaught syntaxerror: unexpected token '<' on index.js`. It means, you are not deploying your app from `gh-pages`. Please change the branch source and re-run `npm run deploy`.
+</details>
+
+
+#
+# Happy Learning ❤️❤️🕉️❤️❤️
