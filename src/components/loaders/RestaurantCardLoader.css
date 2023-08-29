@@ -1,0 +1,39 @@
+.card {
+  width: 220px;
+  height: 280px;
+  margin: 25px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.card__content {
+  margin: 12px;
+}
+
+@keyframes shine {
+  to {
+    background-position-x: -200%;
+  }
+}
+.card__image,
+.loader-heading,
+.loader-para {
+  background: linear-gradient(110deg, #ececec 8%, #f5f5f5 18%, #ececec 33%);
+  border-radius: 5px;
+  background-size: 200% 100%;
+  animation: 1s shine linear infinite;
+}
+.card__image {
+  height: 140px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.loader-heading {
+  height: 23px;
+}
+.loader-para {
+  height: 25px;
+  width: 20%;
+}

@@ -1,0 +1,383 @@
+[
+	{
+		"place_id": "303954247",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "1942586",
+		"boundingbox": [
+			"28.4046285",
+			"28.8834464",
+			"76.8388351",
+			"77.346601"
+		],
+		"lat": "28.6273928",
+		"lon": "77.1716954",
+		"display_name": "Delhi, India",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.7602894986544559,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303751609",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "128565",
+		"boundingbox": [
+			"42.4230572",
+			"42.4376091",
+			"-91.3406123",
+			"-91.3208259"
+		],
+		"lat": "42.4297057",
+		"lon": "-91.3309112",
+		"display_name": "Delhi, Delaware County, Iowa, 52223, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5331649175308649,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303754933",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "137528",
+		"boundingbox": [
+			"44.592216",
+			"44.60357",
+			"-95.223451",
+			"-95.203144"
+		],
+		"lat": "44.5991256",
+		"lon": "-95.211113",
+		"display_name": "Delhi, Redwood County, Minnesota, 56283, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5293327847381092,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303760852",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "176126",
+		"boundingbox": [
+			"42.256461",
+			"42.297427",
+			"-74.938181",
+			"-74.894297"
+		],
+		"lat": "42.2781401",
+		"lon": "-74.9159946",
+		"display_name": "Village of Delhi, Delaware County, New York, 13753, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5106648553911631,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "304136670",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "3301392",
+		"boundingbox": [
+			"42.198785",
+			"42.350216",
+			"-75.039541",
+			"-74.791888"
+		],
+		"lat": "42.2781401",
+		"lon": "-74.9159946",
+		"display_name": "Town of Delhi, Delaware County, New York, 13753, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5016086140508969,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "354266455",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "way",
+		"osm_id": "223456559",
+		"boundingbox": [
+			"28.626087",
+			"28.6281829",
+			"77.2156092",
+			"77.2171014"
+		],
+		"lat": "28.627201999999997",
+		"lon": "77.2163845064627",
+		"display_name": "Jantar Mantar Astronomical Observatory, Delhi, Sansad Marg, Shankar Market, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",
+		"class": "tourism",
+		"type": "attraction",
+		"importance": 0.464129327170988,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+	},
+	{
+		"place_id": "116040546",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "way",
+		"osm_id": "33197279",
+		"boundingbox": [
+			"37.419304",
+			"37.448629",
+			"-120.795433",
+			"-120.740257"
+		],
+		"lat": "37.434013500000006",
+		"lon": "-120.77683869157578",
+		"display_name": "Delhi, Merced County, California, 95315, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.46068528044210335,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "316518",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "node",
+		"osm_id": "150960458",
+		"boundingbox": [
+			"37.4121589",
+			"37.4521589",
+			"-120.798535",
+			"-120.758535"
+		],
+		"lat": "37.4321589",
+		"lon": "-120.778535",
+		"display_name": "Delhi, Merced County, California, 95315, USA",
+		"class": "place",
+		"type": "village",
+		"importance": 0.46068528044210335,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+	},
+	{
+		"place_id": "1126619",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "node",
+		"osm_id": "300479055",
+		"boundingbox": [
+			"42.8144957",
+			"42.8944957",
+			"-80.5383709",
+			"-80.4583709"
+		],
+		"lat": "42.8544957",
+		"lon": "-80.4983709",
+		"display_name": "Delhi, Norfolk County, Ontario, N4B1V8, Canada",
+		"class": "place",
+		"type": "town",
+		"importance": 0.41162856080067536,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+	},
+	{
+		"place_id": "304276753",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "4489246",
+		"boundingbox": [
+			"36.8913167",
+			"38.8868198",
+			"95.7173536",
+			"98.1479422"
+		],
+		"lat": "37.3690819",
+		"lon": "97.36011",
+		"display_name": "Delingha City, Haixi, Qinghai, China",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.4004118308283028,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+
+	{
+		"place_id": "303954247",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "1942586",
+		"boundingbox": [
+			"28.4046285",
+			"28.8834464",
+			"76.8388351",
+			"77.346601"
+		],
+		"lat": "28.6273928",
+		"lon": "77.1716954",
+		"display_name": "Delhi, India",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.7602894986544559,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303751609",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "128565",
+		"boundingbox": [
+			"42.4230572",
+			"42.4376091",
+			"-91.3406123",
+			"-91.3208259"
+		],
+		"lat": "42.4297057",
+		"lon": "-91.3309112",
+		"display_name": "Delhi, Delaware County, Iowa, 52223, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5331649175308649,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303754933",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "137528",
+		"boundingbox": [
+			"44.592216",
+			"44.60357",
+			"-95.223451",
+			"-95.203144"
+		],
+		"lat": "44.5991256",
+		"lon": "-95.211113",
+		"display_name": "Delhi, Redwood County, Minnesota, 56283, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5293327847381092,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "303760852",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "176126",
+		"boundingbox": [
+			"42.256461",
+			"42.297427",
+			"-74.938181",
+			"-74.894297"
+		],
+		"lat": "42.2781401",
+		"lon": "-74.9159946",
+		"display_name": "Village of Delhi, Delaware County, New York, 13753, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5106648553911631,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "304136670",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "3301392",
+		"boundingbox": [
+			"42.198785",
+			"42.350216",
+			"-75.039541",
+			"-74.791888"
+		],
+		"lat": "42.2781401",
+		"lon": "-74.9159946",
+		"display_name": "Town of Delhi, Delaware County, New York, 13753, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.5016086140508969,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "354266455",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "way",
+		"osm_id": "223456559",
+		"boundingbox": [
+			"28.626087",
+			"28.6281829",
+			"77.2156092",
+			"77.2171014"
+		],
+		"lat": "28.627201999999997",
+		"lon": "77.2163845064627",
+		"display_name": "Jantar Mantar Astronomical Observatory, Delhi, Sansad Marg, Shankar Market, Connaught Place, Chanakya Puri Tehsil, New Delhi, Delhi, 110001, India",
+		"class": "tourism",
+		"type": "attraction",
+		"importance": 0.464129327170988,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+	},
+	{
+		"place_id": "116040546",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "way",
+		"osm_id": "33197279",
+		"boundingbox": [
+			"37.419304",
+			"37.448629",
+			"-120.795433",
+			"-120.740257"
+		],
+		"lat": "37.434013500000006",
+		"lon": "-120.77683869157578",
+		"display_name": "Delhi, Merced County, California, 95315, USA",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.46068528044210335,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	},
+	{
+		"place_id": "316518",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "node",
+		"osm_id": "150960458",
+		"boundingbox": [
+			"37.4121589",
+			"37.4521589",
+			"-120.798535",
+			"-120.758535"
+		],
+		"lat": "37.4321589",
+		"lon": "-120.778535",
+		"display_name": "Delhi, Merced County, California, 95315, USA",
+		"class": "place",
+		"type": "village",
+		"importance": 0.46068528044210335,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+	},
+	{
+		"place_id": "1126619",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "node",
+		"osm_id": "300479055",
+		"boundingbox": [
+			"42.8144957",
+			"42.8944957",
+			"-80.5383709",
+			"-80.4583709"
+		],
+		"lat": "42.8544957",
+		"lon": "-80.4983709",
+		"display_name": "Delhi, Norfolk County, Ontario, N4B1V8, Canada",
+		"class": "place",
+		"type": "town",
+		"importance": 0.41162856080067536,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+	},
+	{
+		"place_id": "304276753",
+		"licence": "https://locationiq.com/attribution",
+		"osm_type": "relation",
+		"osm_id": "4489246",
+		"boundingbox": [
+			"36.8913167",
+			"38.8868198",
+			"95.7173536",
+			"98.1479422"
+		],
+		"lat": "37.3690819",
+		"lon": "97.36011",
+		"display_name": "Delingha City, Haixi, Qinghai, China",
+		"class": "boundary",
+		"type": "administrative",
+		"importance": 0.4004118308283028,
+		"icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+	}
+]

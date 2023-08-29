@@ -1,0 +1,62 @@
+.cart-reset-wrapper {
+  position: fixed;
+  /* Sit on top of the page content */
+  width: 100%;
+  /* Full width (cover the whole page) */
+  height: 100%;
+  /* Full height (cover the whole page) */
+  inset: 0;
+  /* Top: 0, bottom : 0, right : 0, left : 0 */
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 2;
+}
+
+.cart-reset-warning-details {
+  width: 550px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 45%;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 2px 15px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.cart-reset-warning-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.cart-reset-warning-description {
+  font-size: 14px;
+  color: #646464;
+}
+
+.cart-reset-warning-btn {
+  border: 2px solid green;
+  text-decoration: none;
+  background-color: #fff;
+  padding: 15px;
+  margin: 10px 0;
+  width: 230px;
+  color: green;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.cart-reset-warning-btn:hover {
+  background-color: green;
+  color: white;
+}
+
+.cart-reset-warning-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+}

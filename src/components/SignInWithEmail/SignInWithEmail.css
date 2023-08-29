@@ -1,0 +1,54 @@
+.email-wrapper {
+  min-height: 130px;
+}
+
+.email-submit {
+  margin: 10px 0;
+  padding: 19px;
+}
+
+.email-input,
+.password-input {
+  padding: 7px;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.google-signin {
+  background-image: linear-gradient(to bottom right, #000000, #00b913);
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.google-icon {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.email-close {
+  position: initial;
+  float: right;
+  position: initial;
+  margin: -20px 0 20px;
+}
+
+.email-signin-error {
+  color: red;
+  margin-left: 2px;
+}
+
+.back-arrow-email-signin {
+  width: 25px;
+}
+
+.back-button-email-signin {
+  background: #fff;
+  border: none;
+  left: 0;
+  right: 360px;
+}

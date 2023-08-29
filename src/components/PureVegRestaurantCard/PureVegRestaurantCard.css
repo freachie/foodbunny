@@ -1,0 +1,15 @@
+.pure-veg-label {
+  background-color: #018501;
+  color: white;
+  font-weight: bold;
+  margin: 0;
+  height: 20px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  margin: 17px 0 0 17px;
+  border-radius: 0 5px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.veg-restaurant-card {}

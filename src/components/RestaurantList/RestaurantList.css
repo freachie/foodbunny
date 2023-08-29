@@ -1,0 +1,43 @@
+.main {
+  margin-top: 130px;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.top-rated,
+.search-restaurant {
+  height: 30px;
+  width: 200px;
+  font-weight: bold;
+  color: #3d190a;
+  font-size: 15px;
+  border-radius: 5px;
+  padding: 9px;
+  margin: 10px 10px 10px 24px;
+  background-color: #e6e4e4;
+  top: 105px;
+  box-shadow: 1px 2px 3px 5px rgba(0, 0, 0, 0.1);
+  border: none;
+  cursor: pointer;
+}
+
+.search-filter-button {
+  padding: 0 0 20px 0;
+  display: flex;
+}
+
+.top-rated {
+}
+
+.search-restaurant {
+  padding: 15px;
+  margin-left: 40px;
+  height: 0;
+}
+
+.search-restaurant:focus {
+  outline: none;
+}

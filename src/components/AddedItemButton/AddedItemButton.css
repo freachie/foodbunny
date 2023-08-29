@@ -1,0 +1,30 @@
+.added-item-button-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  width: 70px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #33ac33;
+  font-weight: bold;
+  margin: 5px auto;
+  box-shadow: 0 1px 5px 1px #0000001f
+}
+
+.added-item-button {
+  border: none;
+  background-color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+.add {
+  color: #33ac33;
+}
+
+.remove {
+  color: #a5a5a5;
+}

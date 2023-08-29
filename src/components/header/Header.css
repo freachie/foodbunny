@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+}
+.header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-between;
+    height: 100px;
+    box-shadow: 0px 13px 15px -15px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    z-index: 2;
+}
+
+.logo {
+    padding: 20px;
+    height: 60%;
+    cursor: pointer;
+}
+
+.search-container {
+    display: flex;
+    height: 100%;
+}
+
+.nav-bars,
+.nav-item {
+    height: 100%;
+    display: flex;
+
+}
+
+.nav-item {
+    align-items: center;
+    margin: 0 20px;
+}
+
+.nav-images {
+    height: 20%;
+}
+
+.nav-links {
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: dimgrey;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-links:hover {
+    color: rgb(237, 172, 32);
+}
+
+.online-status {
+    animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        opacity: 0.1;
+    }
+
+    50% {
+        opacity: 0.9;
+    }
+
+    100% {
+        opacity: 0.1;
+    }
+}
+
+.sign-in {
+    text-align: center;
+    min-width: 60px;
+    max-width: 85px;
+    margin-left: 10px;
+}
+
+.cart-item-count {
+    margin: 0;
+    position: absolute;
+    top: 25px;
+    right: 59px;
+    height: 20px;
+    background-color: #9a0707;
+    border-radius: 50%;
+    width: 20px;
+    text-align: center;
+    color: white;
+    opacity: 0.8;
+    animation: animate 1.5s;
+}

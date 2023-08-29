@@ -1,0 +1,70 @@
+.user-details-wrapper {
+  margin-top: 115px;
+  width: 97%;
+}
+
+.user-details {
+  width: 450px;
+  display: grid;
+  grid-template-columns: 80px 230px 130px;
+  grid-template-rows: repeat(3, 70px);
+  grid-template-areas:
+  'span p button'
+  'span p button'
+  'span p button';
+  gap: 5px 15px;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.user-logout {
+  margin: 20px;
+  min-width: 300px;
+}
+.update-details {
+  background: #fff;
+  border: 1px solid #1578d2;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bold;
+  color: #1578d2;
+  cursor: pointer;
+}
+.update-details:hover {
+  background: #1578d2;
+  color: #fff;
+  border: none;
+}
+.cancel {
+  background: #fff;
+  border: 1px solid #c00;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bold;
+  color: #c00;
+  cursor: pointer;
+}
+.cancel:hover {
+  background: #c00;
+    color: #fff;
+    border: none;
+}
+.edit-icon {
+  height: 20px;
+  cursor: pointer;
+}
+.user-update {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.user-input {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid grey;
+}
+.user-input::-webkit-outer-spin-button,
+.user-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

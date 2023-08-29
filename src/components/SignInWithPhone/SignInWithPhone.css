@@ -1,0 +1,151 @@
+.signin-container {
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: 2;
+  margin-top: 100px;
+  width: 100%;
+  height: 100%;
+}
+
+.signin-wrapper {
+  position: absolute;
+  top: 20%;
+  width: 370px;
+  min-height: 190px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  padding: 35px;
+  border-radius: 5px;
+}
+
+.signin-heading {
+  text-align: center;
+}
+
+.signin-desc {
+  padding: 10px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.signin-title {
+  margin: 10px 2px;
+  color: #8c8c8c;
+}
+
+.signin-input {
+  background-color: #fff;
+  border: 2px solid #2b8aff;
+  border-radius: 8px;
+  padding: 10px;
+  color: #2b8aff;
+  letter-spacing: 2px;
+  font-size: 18px;
+  width: 94%;
+  margin-bottom: 20px;
+}
+
+.signin-input:focus {
+  border: 2px solid #2b8aff;
+  outline-width: 0;
+}
+
+.signin-submit-btn {
+  background-image: linear-gradient(to bottom right, #000033, #2486ff);
+  border: 1px solid blue;
+  border-radius: 8px;
+  padding: 14px;
+  font-weight: bold;
+  font-size: 14px;
+  color: #fff;
+  width: 100%;
+  cursor: pointer;
+}
+
+.signin-submit-btn:disabled {
+  background-image: linear-gradient(to bottom right, #000, #b4b4b4);
+  cursor: not-allowed;
+  border: 1px solid #969696;
+}
+
+.otp {
+  letter-spacing: 20px;
+  font-size: 25px;
+}
+
+.close-signin {
+  z-index: 3;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-radius: 50%;
+  top: 4%;
+  left: 380px;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  background-color: #9a0707;
+  color: #fff;
+  opacity: 0.9;
+  font-weight: bold;
+  border: 1px solid #fff;
+}
+
+.opt-verify-fail-msg {
+  margin-top: 0;
+  color: red;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.resend-otp {
+  border: none;
+  margin: 5px;
+  background-color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  background: linear-gradient(90deg,
+      #0172ab,
+      #006ad4,
+      #0a99ff,
+      #0071d4,
+      #014a82,
+      #103655,
+      #073152,
+      #014682,
+      #0068b2,
+      #006fbe,
+      #015cab,
+      #006ad4,
+      #0a89ff);
+  background-size: 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-text-animation 4s alternate infinite;
+}
+@keyframes gradient-text-animation {
+  from {
+    background-position: 0 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  to {
+    background-position: 0 50%;
+  }
+}
+
+.resend-otp:active,
+.resend-otp:focus {
+  color: red;
+}

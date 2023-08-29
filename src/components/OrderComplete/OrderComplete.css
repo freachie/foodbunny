@@ -1,0 +1,87 @@
+.order-wrapper {
+  margin-top: 125px;
+}
+
+.order-success {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.order-success {
+  width: 500px;
+  min-width: 500px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.order-success-text {
+  margin: 0 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #585858;
+
+}
+
+.order-success-home-button {
+  position: absolute;
+  border: 2px solid #19a119;
+  text-decoration: none;
+  background-color: #fff;
+  padding: 15px;
+  margin: 50px 0;
+  width: 230px;
+  color: #19a119;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.order-success-home-button:hover {
+  background-color: #19a119;
+  color: white;
+}
+
+.order-status-check-text {
+  width: 650px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  background: linear-gradient(90deg,
+      #0a4a00,
+      #0aa52e,
+      #0cd63b,
+      #10ae35,
+      #02aa29,
+      #007c1d,
+      #0a4a00,
+      #007c1d,
+      #02aa29,
+      #10ae35,
+      #0cd63b,
+      #0aa52e,
+      #0a4a00);
+  background-size: 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-text-animation 2s alternate infinite;
+}
+
+@keyframes gradient-text-animation {
+  from {
+    background-position: 0 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  to {
+    background-position: 0 50%;
+  }
+}

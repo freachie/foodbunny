@@ -1,0 +1,57 @@
+.menu-card-wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  width: 75%;
+  min-width: 800px;
+  margin: 10px auto;
+  box-shadow: 0 3px 10px -6px rgba(0,0,0,0.3);
+}
+.veg-non-veg-logo {
+  padding: 0 6px;
+  height: 15px;
+  width: 15px;
+}
+.name {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 5px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #2f2c2c;
+}
+.price {
+  margin: 10px 5px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.pic {
+  height: 100px;
+  width: 160px;
+}
+.add-btn {
+  height: 30px;
+  width: 70px;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #33ac33;
+  font-weight: bold;
+  margin: 5px auto;
+  cursor: pointer;
+  box-shadow: 0 1px 5px 1px #0000001f
+}
+.description {
+  overflow-wrap: break-word;
+  text-overflow: ellipsis;
+  max-width: 95%;
+  overflow: hidden;
+  margin: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #8f8f8f;
+
+}
+.cart {
+  display: grid;
+  align-items: center;
+}
