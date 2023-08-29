@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/foodbunny/static/css/main.edbfdceb.css",
+    "main.js": "/foodbunny/static/js/main.df7ab5af.js",
+    "static/js/787.ccd8c008.chunk.js": "/foodbunny/static/js/787.ccd8c008.chunk.js",
+    "static/media/bg.jpg": "/foodbunny/static/media/bg.5b45137621607f70c10b.jpg",
+    "static/media/success.gif": "/foodbunny/static/media/success.a3a7e51cff82c1075841.gif",
+    "static/media/signin.png": "/foodbunny/static/media/signin.0c26f7848c2c6a63f7c5.png",
+    "static/media/code.png": "/foodbunny/static/media/code.a82781bfff1393ffe8aa.png",
+    "static/media/non-veg.png": "/foodbunny/static/media/non-veg.a14c0722038c70beea33.png",
+    "static/media/star2.png": "/foodbunny/static/media/star2.fc70f1b018a1866c534c.png",
+    "static/media/spinner.gif": "/foodbunny/static/media/spinner.b51df3f3ec072548cb48.gif",
+    "static/media/location.png": "/foodbunny/static/media/location.4330f88e3e1efd82776f.png",
+    "static/media/star.png": "/foodbunny/static/media/star.f0fcd86cf3978edc3ec7.png",
+    "static/media/veg.png": "/foodbunny/static/media/veg.fc7d733bb80f0183ab72.png",
+    "static/media/about.png": "/foodbunny/static/media/about.0a81291d3429181c3cfc.png",
+    "static/media/down.png": "/foodbunny/static/media/down.f99ac25c0635bfa46c70.png",
+    "static/media/empty-cart.svg": "/foodbunny/static/media/empty-cart.24dc807bc4d819b6e2049370cb5a35aa.svg",
+    "static/media/google.svg": "/foodbunny/static/media/google.85078161c85c9374b18a7212c53637ae.svg",
+    "index.html": "/foodbunny/index.html",
+    "main.edbfdceb.css.map": "/foodbunny/static/css/main.edbfdceb.css.map",
+    "main.df7ab5af.js.map": "/foodbunny/static/js/main.df7ab5af.js.map",
+    "787.ccd8c008.chunk.js.map": "/foodbunny/static/js/787.ccd8c008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edbfdceb.css",
+    "static/js/main.df7ab5af.js"
+  ]
+}
