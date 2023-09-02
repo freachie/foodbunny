@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foodbunny/static/css/main.edbfdceb.css",
-    "main.js": "/foodbunny/static/js/main.df7ab5af.js",
+    "main.js": "/foodbunny/static/js/main.cc002fed.js",
     "static/js/787.ccd8c008.chunk.js": "/foodbunny/static/js/787.ccd8c008.chunk.js",
     "static/media/bg.jpg": "/foodbunny/static/media/bg.5b45137621607f70c10b.jpg",
     "static/media/success.gif": "/foodbunny/static/media/success.a3a7e51cff82c1075841.gif",
@@ -19,11 +19,11 @@
     "static/media/google.svg": "/foodbunny/static/media/google.85078161c85c9374b18a7212c53637ae.svg",
     "index.html": "/foodbunny/index.html",
     "main.edbfdceb.css.map": "/foodbunny/static/css/main.edbfdceb.css.map",
-    "main.df7ab5af.js.map": "/foodbunny/static/js/main.df7ab5af.js.map",
+    "main.cc002fed.js.map": "/foodbunny/static/js/main.cc002fed.js.map",
     "787.ccd8c008.chunk.js.map": "/foodbunny/static/js/787.ccd8c008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edbfdceb.css",
-    "static/js/main.df7ab5af.js"
+    "static/js/main.cc002fed.js"
   ]
 }
