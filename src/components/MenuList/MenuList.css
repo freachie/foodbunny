@@ -17,8 +17,9 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   box-shadow: 0 3px 3px 0px rgba(0, 0, 0, 0.1);
   margin-bottom: 5px;
-  
+
 }
+
 .menu-title:hover {
   background-color: #f8f8f8;
 }
@@ -28,7 +29,14 @@
   height: 25px;
   width: 25px;
 }
+
 .expanded {
   transition: 0.4s;
   transform: rotate(180deg);
+}
+
+@media (max-width: 750px) {
+  .menu-title {
+    top: 133px;
+  }
 }

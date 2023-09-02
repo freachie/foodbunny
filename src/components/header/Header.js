@@ -86,15 +86,15 @@ const Header = () => {
 					<Location />
 				</div>
 				<div className="nav-bars">
-					<div className="nav-item">
+					<div className="nav-item contact-us-navItem">
 						<img className="nav-images" src={phoneIcon} alt="contact-us" />
-						<p style={{width:"82px"}}>
+						<p style={{ width: "82px" }}>
 							<Link to="/foodbunny/contact-us" className="nav-links">
 								{ContactUs_NavBar}
 							</Link>
 						</p>
 					</div>
-					<div className="nav-item">
+					<div className="nav-item about-us-navItem">
 						<img className="nav-images" src={aboutIcon} alt="help" />
 						<p>
 							<Link to="/foodbunny/about" className="nav-links">

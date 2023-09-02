@@ -1,6 +1,7 @@
 body {
     margin: 0;
 }
+
 .header {
     display: flex;
     position: fixed;
@@ -9,6 +10,7 @@ body {
     width: 100%;
     justify-content: space-between;
     height: 100px;
+    min-width: 460px;
     box-shadow: 0px 13px 15px -15px rgba(0, 0, 0, 0.1);
     background: #fff;
     z-index: 2;
@@ -92,4 +94,40 @@ body {
     color: white;
     opacity: 0.8;
     animation: animate 1.5s;
+}
+
+@media (max-width: 750px) {
+    .header {
+        height: 80px;
+    }
+
+    .contact-us-navItem,
+    .about-us-navItem {
+        display: none;
+    }
+
+    .search-container {
+        display: flex;
+        justify-content: flex-start;
+        height: 75%;
+    }
+
+    .nav-bars {
+        height: 95%;
+        margin-right: 15%;
+    }
+
+    .nav-item {
+        height: 90%;
+        margin: 0 15px 0 0;
+    }
+
+    .nav-links {
+        font-size: 12px;
+    }
+
+    .sign-in {
+        margin-left: 0;
+    }
+
 }

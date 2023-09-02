@@ -57,8 +57,8 @@ Food Ordering App project which uses swiggy's api to fetch live restaurants data
 
 <details><summary><font size=5>Github pages deployment steps - ( 6 easy steps ) : </font></summary>
 
-
-### 1. Add `predeploy` & `deploy` script in your root package.json
+### 1. Run command `npm i gh-pages --save-dev`
+### 2. Add `predeploy` & `deploy` script in your root package.json
 ```
   "scripts": {
     "predeploy": "npm run build",
@@ -66,9 +66,8 @@ Food Ordering App project which uses swiggy's api to fetch live restaurants data
     "build": "react-scripts build",
   }
 ```
-### 2. Run command - `npm run deploy`
-### 3. Goto your github repository and click on `settings`
-### 4. Click on `pages`
+### 3. Run command - `npm run deploy`
+### 4. Goto your github repository and click on `settings` -> Click on `pages`
 ### 5. Select source - `Deploy from a branch`
 ### 6. Select branch as `gh-pages` - `/root` and save
 ## That's it. Your application is live now.
