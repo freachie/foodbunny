@@ -1,7 +1,7 @@
 /** @format */
 
 import { useContext, useEffect, useState } from "react";
-import { RESTAURANTS_LIST_API } from '../../constants';
+import { CORS_PROXY, RESTAURANTS_LIST_API } from '../../constants';
 import AppContext from "../../context/AppContext";
 
 const useRestaurantsList = () => {
@@ -20,7 +20,7 @@ const useRestaurantsList = () => {
 			location.long
 		);
 		try { 
-			const res = await fetch(url);
+			const res = await fetch(CORS_PROXY + url);
 			const restData = await res.json();
 			const cards = await restData?.data?.cards;
 			const responseId = cards[0]?.card?.card?.id;

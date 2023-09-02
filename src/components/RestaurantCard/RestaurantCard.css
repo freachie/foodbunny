@@ -1,33 +1,38 @@
-
 .restaurant-card {
     height: 340px;
     width: 210px;
     margin: 20px;
     cursor: pointer;
 }
+
 .restaurant-card>:hover {
     color: black;
 }
+
 .rest-logo {
     height: 100%;
     width: 100%;
     border-radius: 15px;
 }
+
 .rest-name {
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
     line-height: 20px;
 }
+
 .rating-container {
     display: flex;
     align-items: center;
 }
+
 .rating {
     margin: 0 5px;
     font-size: 16px;
     line-height: 20px;
     font-weight: 600;
 }
+
 .rest-cuisine-address {
     color: dimgray;
     font-family: sans-serif;
@@ -36,13 +41,16 @@
     overflow: hidden;
     text-overflow: ellipsis;
 }
+
 .rest-details {
     margin: 0 5px;
 }
+
 .rest-link {
     text-decoration: none;
     color: #5d5d5d;
 }
+
 .discount {
     color: #fff;
     position: absolute;
@@ -56,7 +64,33 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-shadow: rgba(0, 0, 0, 0.12) 0px 3px 4px, rgba(0, 0, 0, 0.24) 0px 2px 3px;
 }
+
 .rest-header {
     height: 200px;
     position: relative;
+}
+
+@media (max-width: 750px) {
+
+    .restaurant-card {
+        height: 250px;
+        width: 157px;
+        margin: 15px;
+    }
+
+    .rest-header {
+        height: 150px;
+    }
+
+    .rest-name {
+        font-size: 16px;
+        line-height: 15px;
+        margin: 12px 0;
+        max-height: 30px;
+    }
+
+    .rest-cuisine-address {
+        margin: 9px 0;
+    }
+
 }

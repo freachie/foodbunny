@@ -85,3 +85,13 @@ input:checked+.slider:before {
 .filter-label {
   margin: 4px 2px 0 12px;
 }
+
+@media (max-width: 750px) {
+  .menu {
+    min-width: 806px;
+  }
+
+  .veg-non-veg-filter {
+    top: 79px;
+  }
+}

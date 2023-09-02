@@ -8,6 +8,7 @@ const LOCATIONS_API =
 	"https://us1.locationiq.com/v1/search?key=API_KEY&q=LOCATION&format=json";
 const LOCATION_NAME_API =
 	"https://us1.locationiq.com/v1/nearby?key=API_KEY&lat=LATITUDE&lon=LONGITUDE&tag=all&radius=2000&format=json";
+const CORS_PROXY = "https://corsproxy.io/?";
 const Search_NavBar = 'Search';
 const Offers_NavBar = 'Offers';
 const ContactUs_NavBar = "Contact Us";
@@ -50,4 +51,5 @@ export {
 	LOCATION_NAME_API,
 	EMAIL_REGEX,
 	PASSWORD_MINIMUM_LENGTH,
+	CORS_PROXY,
 };

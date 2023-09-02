@@ -2,7 +2,7 @@
 
 import { useContext, useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { RESTAURANT_MENU_API } from "../../constants";
+import { CORS_PROXY, RESTAURANT_MENU_API } from "../../constants";
 import AppContext from "../../context/AppContext";
 import { useDispatch } from "react-redux";
 import { updateCurrentRest } from "../../store/slices/cartSlice";
@@ -28,7 +28,7 @@ const useRestaurantMenu = () => {
 			.replace("LONGITUDE", location.long)
 			.replace("RESTAURANT_ID", restId);
 		try {
-			const res = await fetch(url);
+			const res = await fetch(CORS_PROXY + url);
 			const menu = await res.json();
 			const cards = await menu?.data?.cards;
 			const info = cards[0]?.card?.card?.info;
