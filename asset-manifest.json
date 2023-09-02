@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/foodbunny/static/css/main.6dc8f3c6.css",
+    "main.css": "/foodbunny/static/css/main.3f1c8fb2.css",
     "main.js": "/foodbunny/static/js/main.33b69047.js",
     "static/js/787.ccd8c008.chunk.js": "/foodbunny/static/js/787.ccd8c008.chunk.js",
     "static/media/bg.jpg": "/foodbunny/static/media/bg.5b45137621607f70c10b.jpg",
@@ -18,12 +18,12 @@
     "static/media/empty-cart.svg": "/foodbunny/static/media/empty-cart.24dc807bc4d819b6e2049370cb5a35aa.svg",
     "static/media/google.svg": "/foodbunny/static/media/google.85078161c85c9374b18a7212c53637ae.svg",
     "index.html": "/foodbunny/index.html",
-    "main.6dc8f3c6.css.map": "/foodbunny/static/css/main.6dc8f3c6.css.map",
+    "main.3f1c8fb2.css.map": "/foodbunny/static/css/main.3f1c8fb2.css.map",
     "main.33b69047.js.map": "/foodbunny/static/js/main.33b69047.js.map",
     "787.ccd8c008.chunk.js.map": "/foodbunny/static/js/787.ccd8c008.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dc8f3c6.css",
+    "static/css/main.3f1c8fb2.css",
     "static/js/main.33b69047.js"
   ]
 }
