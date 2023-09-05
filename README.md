@@ -1,6 +1,9 @@
 # FoodBunny
 Food Ordering App project which uses swiggy's api to fetch live restaurants data. This web app is only for project learning purpose.
 
+### Live demo URL - 
+FoodBunny : https://freachie.github.io/foodbunny
+#
 <details><summary><font size=5>Redux store implementation - ( 6 easy steps ) : </font></summary>
 
 ### 1. configure store using `configureStore`
